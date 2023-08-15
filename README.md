@@ -12,4 +12,4 @@ The goals of this assignment include:
 own test methods.
 • Give you experience working with callback methods to define how your program responds
 to mouse or key based input.
-The source code is in the '' directory.
+The source code is in the 'Water Fountain P02/src/' directory.
